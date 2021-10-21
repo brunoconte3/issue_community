@@ -1,0 +1,7 @@
+parameters:
+    bootstrapFiles:
+        - conf/conf.php
+        - conf/confDefine.php
+    paths:
+        - conf
+    phpVersion: 70400
